@@ -1,0 +1,13 @@
+lib/
+lib
+.cache/
+.cache
+.config
+.config/
+venv/
+venv
+__pycache__
+__pycache__/
+.replit
+.DS_Store
+replit_zip_error_log.txt
